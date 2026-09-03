@@ -1,5 +1,5 @@
 {
-    "scope": "x_snc_maintenance",
+    "scope": "x_snc_inishi",
     "scopeId": "056459024bc54b0bb2b5d03ba6bd4ca4",
     "name": "Maintenance_inishi",
     "tsconfigPath": "./src/server/tsconfig.json"
